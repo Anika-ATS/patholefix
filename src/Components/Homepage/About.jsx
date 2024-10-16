@@ -27,14 +27,14 @@ const About = () => {
           <h1 className="text-4xl font-bold mt-4">
             Welcome to Pathole Fix Team!
           </h1>
-          <p className="py-2">
+          <p className="py-1">
             At Pathole Fix Team, we are dedicated to making your roads safer and
             smoother. Our mission is to tackle the persistent problem of
             potholes in our communities, providing prompt and efficient repair
             solutions that enhance the driving experience for everyone.
           </p>
           <h2 className="font-bold">Our Commitment</h2>
-          <p className="py-2">
+          <p className="py-1">
             We believe that safe roads are a fundamental right. Our team of
             skilled professionals utilizes the latest techniques and
             high-quality materials to ensure durable and long-lasting repairs.
